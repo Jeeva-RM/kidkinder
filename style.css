@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 .logo{
     text-decoration: none;
 }
@@ -37,6 +41,7 @@
   margin-left: 0;
   color: #17a2b8;
 }
+
 
 .dropdown-menu{
     display: none;
@@ -104,4 +109,63 @@
     padding-right: 2rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
+}
+
+.facilities{
+    padding: 3rem 8rem;
+    border-spacing: 2rem;
+
+}
+
+h4{
+    font-size: calc(1.275rem + 0.3vw);
+    font-weight: bold;
+    line-height: 1.2;
+    color: #00394f;
+}
+
+.flaticon-050-fence{
+    font-size: 2.5rem;
+}
+
+.flaticon-022-drum{
+    font-size: 2.5rem;
+}
+
+.flaticon-030-crayons{
+    font-size: 2.5rem;
+}
+
+.flaticon-017-toy-car{
+    font-size: 2.5rem;
+}
+
+.flaticon-025-sandwich{
+    font-size: 2.5rem;
+}
+
+.flaticon-047-backpack{
+    font-size: 2.5rem;
+}
+
+.att1{
+    border-spacing: 1rem;
+    width: 325px;
+    border-top: 1px solid #dee2e6;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%);
+}
+
+.m-0{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #666666;
+}
+
+.learn-about-us{
+    padding-left: 8rem;
+    padding-right: 8rem;
+    border-spacing: 1.5rem;
 }
